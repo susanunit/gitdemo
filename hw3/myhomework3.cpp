@@ -5,5 +5,8 @@ using std::cout;
 
 int main (void) {
 
+	int butter=90;
+
 	cout << "Hi from Susan\n";
+	cout << "Butter = " << butter << "\n";
 }
