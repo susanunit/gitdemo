@@ -1,2 +1,5 @@
-# gitdemo
-Github demo in class
+Susan Lindsey
+sl26924
+slindsey
+slindsey
+
